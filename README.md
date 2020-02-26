@@ -8,4 +8,6 @@ web page design basics layout
 	*Bootstrap
 	*Owl-Carousel
 	*Jquery
+	*Font-Awesome
+	*Font-Awesome-Library 
 
