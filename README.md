@@ -3,7 +3,6 @@
 
 ## Setup linked from this file 
 	
-
 	*HTML 
 	*CSS
 	*Bootstrap
@@ -13,5 +12,5 @@
 	*Font-Awesome
 	*Font-Awesome-Library 
 	
-
+	
 ### Custom js file = main.js File
