@@ -1,7 +1,7 @@
 # Layout
 web page design basics layout 
 
-	# Setup linked from this file 
+## Setup linked from this file 
 	
 	*HTML 
 	*CSS
