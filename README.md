@@ -8,8 +8,10 @@ web page design basics layout
 	*Bootstrap
 	*Owl-Carousel
 	*Jquery
+	*Animation
 	*Font-Awesome
 	*Font-Awesome-Library 
+	
 
 
 ### Custom js file = main.js File
