@@ -1,8 +1,11 @@
 # Layout
-web design basics layout 
+web design page basics layout 
+
+	##setup linked from this file 
 	
 	*HTML 
 	*CSS
 	*Bootstrap
 	*Owl-Carousel
 	*Jquery
+
