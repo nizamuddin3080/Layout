@@ -1,0 +1,13 @@
+/*    font-family: 'Josefin Sans', sans-serif; */
+*{
+    box-sizing: border-box;
+}
+
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+.details{
+    background: rgba(238, 238, 117, 0.61);
+}
